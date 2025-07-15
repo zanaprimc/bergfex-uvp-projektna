@@ -1,5 +1,6 @@
 interno_ime,smucisce,drzava,nadmorska_visina,km_prog,karta,valuta
 badhofgastein,Bad Hofgastein / Bad Gastein - Skigastein - Schlossalm / Angertal / Stubnerkogel - Ski amade,AT,870 - 2.300,84,"76,50",€
+schilifte-millruette,Millrütte,AT,n/a,0,n/a,n/a
 latemar-obereggen,Obereggen - Pampeago - Predazzo / Latemar,IT,1.476 - 2.207,49,"69,00",€
 steg,Steg im Tösstal,CH,714 - 1.023,2.9,"30,00",CHF
 pustevny,Pustevny,CZ,620 - 1.098,8.4,n/a,n/a
@@ -12,6 +13,7 @@ frauenalpe,Murauer Frauenalpe,AT,1.500 - 2.000,0,n/a,n/a
 selce-cachovo,Selce-Čachovo,SK,470 - 650,2.3,n/a,n/a
 barmsee-kruen,Barmsee / Krün,DE,900 - 950,0.7,n/a,n/a
 kaniowka,Kaniówka,PL,780 - 870,1.3,n/a,n/a
+marmolada-passo-fedaia,Passo Fedaia - Marmolada,IT,n/a,0,n/a,n/a
 tabarz-inselberg,Inselsberg / Bad Tabarz,DE,720 - 900,2.1,"30,00",€
 ski-park-liptovska-teplicka,SKI PARK Liptovská Teplička,SK,920 - 1.020,0.9,n/a,n/a
 confin,Confin / San Bernardino,CH,1.642 - 2.525,0,"49,00",CHF
@@ -21,6 +23,7 @@ altenfeld,Altenfeld,DE,650 - 710,0.3,n/a,n/a
 groeden-seiser-alm,Seiser Alm,IT,1.685 - 2.200,68.3,"77,00",€
 alpin-lift-hausen-an-der-lauchert,Alpin-Lift / Hausen an der Lauchert,DE,700 - 850,1.5,n/a,n/a
 tourchet,Tourchet,FR,1.007 - 1.069,0.5,"20,00",€
+gruenten,Grünten,DE,n/a,0,n/a,n/a
 cerny-dul,Černý Důl / Černá hora - Pec,CZ,580 - 885,6.5,n/a,n/a
 balme-vallorcine,Balme - Vallorcine,FR,1.480 - 2.270,25,"71,00",€
 postalm,Winterpark Postalm,AT,1.200 - 1.900,12,"48,00",€
@@ -82,6 +85,7 @@ oberer-schlossberg-sankt-georgen,Oberer Schloßberg / St. Georgen,DE,920 - 970,0
 kreuzweg-neuenweg,Kreuzweg / Neuenweg,DE,1.080 - 1.130,0.5,n/a,n/a
 ladek-zdroj,Stacja Narciarska Lądek Zdrój,PL,600 - 700,0,n/a,n/a
 piz-bohl-strassberg,Piz Bohl / Strassberg,DE,700 - 800,0.5,"10,00",€
+menzingen,Menzingen,CH,950,0.3,n/a,n/a
 ratschings-jaufen-wipptal,Ratschings Jaufen,IT,1.300 - 2.150,28,"67,00",€
 petrikovice,Petříkovice,CZ,435 - 575,2.7,n/a,n/a
 breuil-cervinia,Breuil - Cervinia,IT,1.524 - 3.480,157,"61,00",€
@@ -128,6 +132,7 @@ fuessener-joechle-graen,Füssener Jöchle / Grän,AT,1.206 - 1.823,9,"52,00",€
 beuil-les-launes,Beuil Les Launes - Beuil / Valberg,FR,1.430 - 2.675,90,"37,00",€
 villars,Villars - Gryon - Les Diablerets,CH,1.300 - 3.000,84,"66,00",CHF
 strazne,Strážné,CZ,800 - 1.300,0,n/a,n/a
+koedellift-nordhalben,Ködellift Nordhalben,DE,n/a,0,n/a,n/a
 waidring-steinplatte,Steinplatte / Waidring,AT,740 - 1.869,42,"60,00",€
 thuile-rosiere-aostatal,La Thuile - La Rosiere / San Bernardo,IT,1.441 - 2.800,154,"56,00",€
 val-d-ese,Val d&#039;Ese / Bastelica,FR,1.620 - 1.825,6.3,"25,00",€
@@ -138,10 +143,12 @@ dorfberglift-kartitsch,Kanterlift / Kartitsch - Osttirol,AT,1.356 - 1.820,2.7,"4
 hochfuegen,Hochfügen / Zillertal,AT,1.500 - 2.500,90.7,"76,00",€
 grosseck-speiereck,Großeck / Speiereck / Mauterndorf,AT,1.000 - 2.400,50,"58,00",€
 tenna,Tenna,CH,1.660 - 1.780,4.5,n/a,n/a
+unterschaechen,Unterschächen,CH,995,0,n/a,n/a
 sankt-radegund,St. Radegund Lift,AT,762 - 800,0,n/a,n/a
 valdidentro,San Colombano - Valdidentro,IT,1.345 - 2.550,25,n/a,n/a
 buchenbergbahn-buching,Buchenbergbahn - Buching,DE,850 - 1.140,4,n/a,n/a
 oaza-ski,Oaza Ski,PL,250 - 343,0,n/a,n/a
+muehlwiese-lerbach,Mühlwiese Lerbach,DE,n/a,0,n/a,n/a
 eggalm-tux-lanersbach,Eggalm Bahnen / Tux-Lanersbach / Zillertal,AT,1.300 - 2.300,22,"76,00",€
 campitello-fassatal-col-rodella-val-fassa,Campitello - Col Rodella / Val di Fassa,IT,1.440 - 2.485,9.9,dynamic,n/a
 puy-st-vincent,Puy St Vincent,FR,1.400 - 2.750,75,"41,00",€
@@ -186,6 +193,7 @@ notschrei-skilifte,Notschrei,DE,1.119 - 1.220,0.5,n/a,n/a
 doebrastockenlift,Döbrastöckenlift /Schwarzenbach,DE,650 - 700,0.3,n/a,n/a
 alto-campoo,Alto Campoo,ES,1.650 - 2.125,24.3,"37,00",€
 auron,Auron,FR,1.600 - 2.450,135,"42,00",€
+presolana,Presolana,IT,1.200,5,"36,00",€
 monte-avena-croce-d-aune,Monte Avena - Croce d´Aune,IT,1.000 - 1.450,20,n/a,n/a
 olesnice-v-orlickych-horach,Olešnice v Orlických horách,CZ,645 - 730,1.6,n/a,n/a
 plavy,Plavy,CZ,420 - 526,0,n/a,n/a
@@ -218,6 +226,7 @@ kitzbuehel-kirchberg,Kitzbühel / Kirchberg,AT,800 - 2.000,234,"76,00",€
 skigebiet-gurtis,Gurtis,AT,900 - 1.400,4,"24,00",€
 muttereralm,Muttereralm,AT,960 - 1.801,0,"52,00",€
 miroslav,Miroslav,CZ,635 - 866,2.9,n/a,n/a
+bennau-einsiedeln,Bennau / Einsiedeln,CH,n/a,0,n/a,n/a
 saint-imier-mont-soleil,Saint-Imier - Mont Soleil,CH,1.100 - 1.460,0.3,n/a,n/a
 jungfrau-grindelwald-wengen,Jungfrau Ski Region Grindelwald - Wengen,CH,937 - 2.500,160,dynamic,n/a
 arralifte,Arralifte / Harmanschlag,AT,734 - 857,2.1,"28,00",€
@@ -407,6 +416,7 @@ pintura-bolognola,Pintura - Bolognola,IT,1.280 - 1.695,10,"25,00",€
 moosberglift,Moosberglift / Weißenbach am Lech,AT,97 - 1.030,0.7,n/a,n/a
 navis,Navis / Wipptal,AT,1.200 - 1.400,1,n/a,n/a
 weisser-stein-eifel,Weißer Stein Eifel,DE,610 - 693,0,n/a,n/a
+stixner-allgaeu,Stixner,DE,n/a,0,n/a,n/a
 val-formazza-sagersboden,Val Formazza / Sagersboden,IT,1.298 - 1.772,3,n/a,n/a
 strelniky,Strelníky,SK,700 - 750,1.9,n/a,n/a
 hluboka-u-trhove-kamenice,Hluboká u Trhové Kamenice,CZ,520 - 580,0.6,n/a,n/a
@@ -505,6 +515,7 @@ kocourov,Kocourov,CZ,485 - 575,1,n/a,n/a
 bellefontaine,Bellefontaine,FR,1.033 - 1.261,2.1,"26,00",€
 pizmundaun,Obersaxen Mundaun,CH,1.200 - 2.310,120,"65,00",CHF
 ala-stura,Ala di Stura,IT,1.080 - 1.900,10,n/a,n/a
+dollberg,Dollberg,DE,580,0.3,"12,00",€
 pany,Pany,CH,1.330 - 1.550,5,n/a,n/a
 telnice,Telnice,CZ,600 - 796,7.4,"800,00",CZK
 tylicz,Tylicz,PL,590 - 740,6,n/a,n/a
@@ -578,6 +589,7 @@ biancoia-conco,Biancoia / Conco,IT,1.090 - 1.254,5,"26,00",€
 valloire,Valloire - Galibier Thabor,FR,1.430 - 2.750,160,"53,60",€
 avers,Avers,CH,2.000 - 2.600,8,"35,00",CHF
 hohenstein,Hohenstein - Kirchensittenbach,DE,580 - 624,0.4,n/a,n/a
+wurmannsquick,Wurmannsquick,DE,500,0,n/a,n/a
 les-brasses,Les Brasses,FR,900 - 1.500,30,"30,00",€
 davos-jakobshorn,Davos Jakobshorn,CH,1.540 - 2.590,42,"84,00",CHF
 langis-glaubenberg,Langis Glaubenberg,CH,1.450 - 1.600,0.6,"24,00",CHF
@@ -643,6 +655,7 @@ schlossberg-st-georgen,Schloßberg / St. Georgen,DE,900 - 970,0,"18,00",€
 adria-ski-kupres,Adria Ski / Kupres,BA,1.189 - 1.528,13,n/a,n/a
 altipiani-folgaria-lavarone-luserna,Folgaria - Fiorentini / Alpe Cimbra,IT,1.200 - 1.900,74,"55,00",€
 klosters-madrisa,Klosters Madrisa,CH,1.124 - 2.602,23,"72,00",CHF
+skihalle-neuss,SnowWorld Neuss,DE,n/a,0.4,"53,50",€
 mayen,Skilift Mayen in Arft/Eifel,DE,580 - 630,1.5,"13,00",€
 flaine,Flaine / Le Grand Massif,FR,1.600 - 2.500,140,"57,00",€
 schorrberg,Schorrberg / Bad Marienberg,DE,450 - 500,1.1,"20,00",€
@@ -650,6 +663,7 @@ lakcenhaeuser-neureichenau,Lackenhäuser / Neureichenau,DE,775 - 786,0.2,n/a,n/a
 u-zura,U Żura - Chabówka,PL,500 - 540,0,n/a,n/a
 la-quillane,La Quillane,FR,1.710 - 1.810,2.8,"24,50",€
 simmelsberg-hanau,Skizentrum Simmelsberg - Skiclub Hanau,DE,660 - 840,5,"20,00",€
+brigachlift-oberkirnach,Brigachlift / St. Georgen,DE,n/a,0,n/a,n/a
 ski-drienica,Drienica,SK,555 - 740,2.5,n/a,n/a
 praz-sur-arly,Praz sur Arly,FR,1.036 - 2.069,90,"41,80",€
 de-kempervennen,Montana Snowcenter,NL,30 - 45,0.2,"37,50",€
@@ -724,6 +738,7 @@ dobel-albtal,Dobel / Albtal,DE,670 - 720,0.5,n/a,n/a
 racibor-oravsky-podzamok,Racibor - Oravský Podzámok,SK,506 - 743,8.4,n/a,n/a
 darmstaedter-huette,Darmstädter Hütte,DE,1.006 - 1.074,0,n/a,n/a
 kristberg,Kristbergbahn / Silbertal / Montafon,AT,889 - 1.660,9,dynamic,n/a
+hochstraesslifte-oberreute,Hochsträßlifte Oberreute,DE,n/a,0,n/a,n/a
 radusa,Radusa,BA,1.290 - 1.757,6.6,n/a,n/a
 holzelfingen,Wintersport Arena Holzelfingen,DE,720 - 801,3,"30,50",€
 zlaim-grundlsee,Zlaim / Grundlsee,AT,760 - 900,1,"20,00",€
@@ -737,6 +752,7 @@ eggiwil,Eggiwil,CH,740 - 1.000,3,n/a,n/a
 kerenzerberg,Kerenzerberg,CH,740 - 1.280,7,"35,00",CHF
 pal-arinsal-la-massana-vallnord,Vallnord / Pal-Arinsal - La Massana,AD,1.240 - 2.569,63,n/a,n/a
 kranjska-gora,Kranjska Gora,SI,813 - 1.295,20,"47,00",€
+schwalefeld,Schwalefeld,DE,n/a,0,n/a,n/a
 morbier-les-gentianes,Morbier - Les Gentianes,FR,930 - 1.008,2,dynamic,n/a
 ski-sun-swieradow-zdroj,Ski&amp;Sun Świeradów Zdrój,PL,617 - 1.060,2.5,n/a,n/a
 l-audiberge,L&#039;Audibergue,FR,1.405 - 1.657,28,"21,00",€
@@ -912,6 +928,7 @@ samoty,Samoty,CZ,785 - 896,2.6,n/a,n/a
 art-ski,Art-Ski,PL,712 - 805,0,n/a,n/a
 laye,Laye,FR,1.300 - 1.830,10,"27,50",€
 vranca,Vranča,CZ,470 - 625,5.9,n/a,n/a
+feuerberg,Feuerberg,DE,n/a,0,n/a,n/a
 uttendorf-weissee,Weissee Gletscherwelt,AT,804 - 2.600,23,"49,00",€
 au-bad-feilnbach,Au / Bad Feilnbach,DE,510 - 560,0.3,n/a,n/a
 sommeralm,Sommeralm / Holzmeisterlifte,AT,1.240 - 1.400,3,"31,00",€
@@ -1062,6 +1079,7 @@ skolnity,Skolnity Ski&amp;Bike Park,PL,762 - 770,2.2,n/a,n/a
 skilift-am-kuelliggut,Skilift am Külliggut / Johanngeorgenstadt,DE,770 - 880,2,n/a,n/a
 laforclaz,La Forclaz,CH,1.696 - 2.204,0,"28,00",CHF
 schwaerzenbach,Schwärzenbach / Titisee-Neustadt,DE,1.050 - 1.300,0,"10,00",€
+koenigswalde,Königswalde,DE,537,0,n/a,n/a
 valtgeva-druni-kids-arena-sedrun,Valtgeva / Druni KidsArena Sedrun,CH,1.450 - 1.550,2,n/a,n/a
 ruhestein,Ruhestein,DE,900 - 980,1,"27,00",€
 szelment,Szelment,PL,52 - 256,1.9,n/a,n/a
@@ -1154,6 +1172,7 @@ grand-valtin,Grand Valtin / Ban-sur-Meurthe-Clefcy,FR,850 - 930,0.5,n/a,n/a
 laguiole,Laguiole,FR,1.185 - 1.402,10,"23,00",€
 ruhrquelle,Rodelparadies Ruhrquellenhütte,DE,640 - 675,0.6,"32,00",€
 burov,Búřov,CZ,500 - 620,1.1,n/a,n/a
+kurza-gora,Kurza Góra,PL,n/a,2.5,n/a,n/a
 andermatt-oberalp-sedrun,Andermatt - Oberalp - Sedrun,CH,1.444 - 2.600,70,"89,00",CHF
 bedrichov,Bedřichov / Jizerky,CZ,710 - 802,4.5,"580,00",CZK
 pod-solanem,Pod Soláněm,CZ,676 - 714,1,n/a,n/a
@@ -1179,6 +1198,7 @@ tarvisio,Tarvisio,IT,760 - 1.760,23.1,"44,00",€
 czorsztyn-ski,CZORSZTYN-SKI,PL,611 - 758,4.4,n/a,n/a
 grebenzen,Grebenzen / St. Lambrecht,AT,1.000 - 1.900,26.7,"52,00",€
 skigebiet-schneiderkopf-buch,Schneiderkopf Buch,AT,700 - 880,0,n/a,n/a
+skiliftraten,Skilift Raten,CH,737,0.8,"14,00",CHF
 bad-laasphe-hesselbach,Bad Laasphe - Hesselbach,DE,450 - 624,0.9,"15,00",€
 koziniec-ski,Koziniec ski,PL,760 - 890,2.2,n/a,n/a
 la-giettaz,La Giettaz,FR,1.200 - 1.930,0,"47,00",€
@@ -1198,6 +1218,7 @@ buegls-s-chanf,Bügls - S-chanf,CH,1.670 - 1.730,0.5,n/a,n/a
 gehlberg,Gehlberg,DE,670 - 915,0,n/a,n/a
 boi-taull,Boi-Taüll Resort,ES,2.020 - 2.751,46,"42,00",€
 skipark-eland,Skipark Eland,SK,480 - 600,2,n/a,n/a
+benneckenstein-im-harz,Benneckenstein im Harz,DE,n/a,0,n/a,n/a
 szus,Szus Koniaków,PL,684 - 868,0.2,n/a,n/a
 notre-dame-du-pre,Notre Dame du Pré,FR,1.255 - 1.510,4.2,"16,00",€
 meiringen-hasliberg,Meiringen - Hasliberg,CH,1.066 - 2.433,60,"62,00",CHF
@@ -1267,6 +1288,7 @@ warth-schroecken,Warth / Schröcken am Arlberg,AT,1.500 - 2.811,302,"73,50",€
 alpsteinblick-gonten,Alpsteinblick / Gonten,CH,900 - 1.190,4,n/a,n/a
 laterns,Laterns / Gapfohl,AT,1.170 - 1.785,27,"46,00",€
 spieserlifte-allgaeu,Spieserlifte Unterjoch,DE,1.055 - 1.350,7,"33,00",€
+francorchamps-la-gleize,Mont des Brumes,BE,n/a,1.1,n/a,n/a
 aktiv-arena-am-kolben-oberammergau,AktivArena am Kolben / Oberammergau,DE,850 - 1.276,1.2,"23,00",€
 kleinlobming,Kleinlobming,AT,764 - 1.000,1,"30,50",€
 menthieres-chezery,Menthières - Chézery,FR,1.070 - 1.535,1.4,"19,00",€
@@ -1436,6 +1458,7 @@ albiez-montrond,Albiez Montrond,FR,1.550 - 2.100,35,"31,50",€
 frauenau,Frauenau,DE,635 - 712,0.5,n/a,n/a
 mont-gibloux,Mont Gibloux,CH,900 - 1.200,1,n/a,n/a
 les-angles,Les Angles,FR,1.600 - 2.400,55,"46,00",€
+schwaebeleholz-lift-sonthofen,Schwäbeleholz / Sonthofen,DE,n/a,0,n/a,n/a
 sviscaki,Sviščaki,SI,1.210 - 1.330,0.6,n/a,n/a
 craveggia-piana-vigezzo,Craveggia - Piana di Vigezzo,IT,825 - 2.064,20,n/a,n/a
 innsbruck-nordkette,Innsbruck / Nordkette,AT,860 - 2.260,13,"36,00",€
@@ -1496,6 +1519,7 @@ slawicki-raj,Sławicki Raj,PL,275 - 335,1.1,n/a,n/a
 am-hainberg-olbernhau,Am Hainberg / Olbernhau,DE,506 - 602,0.5,n/a,n/a
 usseln,Usseln,DE,640 - 730,1,n/a,n/a
 val-palot-pisogne,Val Palot - Pisogne,IT,1.090 - 1.220,3,n/a,n/a
+hohe-lied-schmallenberg,Hohe Lied / Schmallenberg-Gellinghausen,DE,n/a,0,n/a,n/a
 saint-nizier-du-moucherotte,Saint-Nizier-du-Moucherotte,FR,1.161 - 1.200,2,"7,00",€
 caldirola-monte-gropa,Caldirola - Monte Gropà,IT,1.080 - 1.364,5.9,n/a,n/a
 haldenkoepfle,Haldenköpfle / Schauinsland,DE,1.130 - 1.260,3.5,"36,00",€
@@ -1568,6 +1592,7 @@ greuth-gerstetten,Wintersportzentrum Greuth,DE,574 - 634,0.7,n/a,n/a
 ski-mojtin,Ski Mojtín,SK,697 - 942,7,n/a,n/a
 gemeindealpe,Gemeindealpe / Mitterbach,AT,800 - 1.626,15.5,"50,50",€
 ratzi,Ratzi / Spiringen,CH,955 - 1.840,5.4,n/a,n/a
+horben,Horben,CH,520,0.3,n/a,n/a
 pokljuka-goreljek,Pokljuka - Goreljek,SI,1.270 - 1.330,1,n/a,n/a
 formigueres,Formiguères,FR,1.500 - 2.400,25,"39,00",€
 filzberg,Filzberg / Landsberied,DE,550 - 580,0.2,n/a,n/a
@@ -1596,6 +1621,7 @@ deesbach-skilift,Deesbach Skilift,DE,660 - 744,0.6,n/a,n/a
 raliska,Rališka,CZ,605 - 729,1.9,n/a,n/a
 sonnenbichl,Skizentrum Sonnenbichl,DE,835 - 1.025,2,n/a,n/a
 wendelstein-bayrischzell,Wendelstein - Brannenburg,DE,500 - 1.800,11,"47,00",€
+neuhaus-am-rennweg,Neuhaus am Rennweg,DE,n/a,0,n/a,n/a
 skilift-oybin-hain,Skilift Oybin - Hain / Johannisstein,DE,550 - 590,0.3,n/a,n/a
 maelzerberg,Mälzerberg / Schirgiswalde,DE,300 - 350,0.4,n/a,n/a
 meribel,Méribel / Les 3 Vallées,FR,1.450 - 2.750,150,"66,60",€
@@ -1632,6 +1658,7 @@ haut-du-tot,Haut du Tôt,FR,865 - 865,0.4,"5,00",€
 capracotta,Capracotta,IT,1.380 - 1.650,1.6,n/a,n/a
 ziar-dolinky,Žiar - Dolinky,SK,810 - 902,0.9,n/a,n/a
 brombergalm,Bromberg Alm,DE,820 - 920,1.7,n/a,n/a
+breitnau,Breitnau,DE,n/a,0,n/a,n/a
 murzasichle,Murzasichle,PL,840 - 894,1,n/a,n/a
 bivio,Bivio,CH,1.769 - 2.560,30,"46,00",CHF
 gubalowka,Gubałówka / Zakopane,PL,1.090 - 1.120,3,"99,00",PLN
@@ -1688,6 +1715,7 @@ goldeck,Goldeck am Millstätter See,AT,536 - 2.142,31.6,"59,00",€
 vankuv-kopec,Vaňkův kopec,CZ,324 - 400,1.9,n/a,n/a
 kubova-hut,Kubova Huť,CZ,1.000 - 1.150,1.4,n/a,n/a
 vernar-studnicky,Vernár-Studničky,SK,800 - 960,1.3,n/a,n/a
+schafhoflift,Schafhoflift / Friedenweiler,DE,n/a,0,n/a,n/a
 herzogsreut-hinterschmiding,Herzogsreut - Hinterschmiding,DE,790 - 855,1,"10,00",€
 hintertux,Hintertuxer Gletscher / Hintertux / Zillertal,AT,1.500 - 3.250,62,"76,00",€
 planneralm,Planneralm / Schneebären,AT,1.600 - 2.200,16,"56,00",€
@@ -1801,6 +1829,7 @@ hohe-acht-jammelshofen,Hohe Acht - Jammelshofen / Kaltenborn,DE,510 - 580,1.2,n/
 stupava,Stupava,CZ,340 - 450,1.2,n/a,n/a
 bulle-lachia,Bulle - La Chia,CH,1.000 - 1.300,3,"20,00",CHF
 koninki,Koninki,PL,655 - 964,2.4,n/a,n/a
+homberg-ziegenhelle-zueschen,Homberg - Ziegenhelle,DE,n/a,0,n/a,n/a
 pinzolo,Pinzolo - Val Rendena / Dolomiti di Brenta,IT,800 - 2.100,32,"60,00",€
 schindelberg-allgaeu,Skilifte Schindelberg,DE,900 - 1.100,1,"16,00",€
 dreilaendereck,Dreiländereck / Arnoldstein,AT,680 - 1.600,0,n/a,n/a
@@ -1846,6 +1875,7 @@ potstat,Potštát,CZ,485 - 565,1.7,"500,00",CZK
 saint-maurice-sur-moselle,Rouge Gazon / Saint Maurice sur Moselle,FR,900 - 1.260,23,"22,00",€
 zvicina,Zvičina,CZ,490 - 645,2.2,n/a,n/a
 alta-badia,Alta Badia,IT,1.324 - 2.778,130,dynamic,n/a
+haldenlift-wintersulgen-heiligenberg,Haldenlift Wintersulgen / Heiligenberg,DE,726,0.2,n/a,n/a
 chuderhuesi,Chuderhüsi,CH,1.000 - 1.100,1,n/a,n/a
 gedersberg,Gedersberg,AT,378 - 403,0.3,n/a,n/a
 grimmialp,Grimmialp / Diemtigtal,CH,1.230 - 1.890,10,"42,00",CHF
@@ -1918,9 +1948,11 @@ zwoelfmorgental-wernigerode,Zwölfmorgental Wernigerode,DE,380 - 465,0,n/a,n/a
 hochlitten,Hochlitten Riefensberg,AT,1.000 - 1.200,6,"38,50",€
 neureichenau,Dreisessel Frauenberg / Neureichenau,DE,610 - 1.312,0,n/a,n/a
 seibelseckle,Seibelseckle,DE,950 - 1.060,0.5,"28,00",€
+grossglockner-zellersee,Bruck Fusch / Grossglockner,AT,813,0.3,n/a,n/a
 gaal,Gaaler Lifte,AT,860 - 1.250,8,"45,00",€
 tignes,Tignes,FR,1.550 - 3.456,150,"66,00",€
 dachstein-krippenstein,Dachstein Krippenstein / Obertraun,AT,515 - 2.100,13,"54,90",€
+fischenthal,Fischenthal,CH,n/a,4,n/a,n/a
 bocksberg-hahnenklee,Bocksberg-Hahnenklee,DE,560 - 727,1.7,"28,90",€
 blockhaus-belmicke,Blockhaus - Belmicke,DE,436 - 465,0.3,"10,00",€
 kleinwalsertal-kanzelwand,Kleinwalsertal / Kanzelwand / Fellhorn,AT,920 - 1.967,36,"65,80",€
@@ -1958,6 +1990,7 @@ le-chaluet,Le Chaluet,CH,700 - 740,0.2,n/a,n/a
 althuette-waldmuenchen,Althütte Waldmünchen,DE,775 - 810,0.3,"25,00",€
 kaisers-boedenlift,Kaisers Bödenlift,AT,1.360 - 1.450,0,n/a,n/a
 civetta,Civetta - Alleghe - Selva di Cadore - Val di Zoldo,IT,1.000 - 2.200,72,dynamic,n/a
+wachtberglifte-weyregg,Wachtberglifte / Weyregg am Attersee,AT,n/a,0,n/a,n/a
 dorflift-johnsbach,Johnsbach,AT,870 - 1.005,1.2,n/a,n/a
 u-steni,U Steni,PL,908 - 984,0,n/a,n/a
 eisenberg-neuenstein,Eisenberg / Neuenstein,DE,530 - 610,1,"18,00",€
@@ -1976,12 +2009,14 @@ gaberl,Gaberl,AT,1.300 - 1.551,6,"36,00",€
 schilift-hrast-feistritz-gail,Hrast / Feistritz a.d. Gail,AT,550 - 670,1.2,"28,00",€
 kesselmannlift-faistenau,Kesselmannlift / Faistenau,AT,800 - 855,0.9,"15,00",€
 monte-bondone,Monte Bondone,IT,1.300 - 2.090,18.8,"52,00",€
+forca-canapine,Forca Canapine,IT,n/a,25,n/a,n/a
 lysa-gora-miedzygorze,Łysa Góra Międzygórze / Diament,PL,734 - 817,0,n/a,n/a
 la-grave,La Grave - La Meije,FR,1.400 - 3.550,2,"62,00",€
 schmallenberger-hoehenlift,Schmallenberger Höhenlift,DE,460 - 630,2,"26,00",€
 hoernli-schoenengrund,Hörnli - Schönengrund,CH,890 - 970,0.4,n/a,n/a
 jahorina,Jahorina,BA,1.300 - 1.920,52,"44,00",€
 orelle-val-thorens,Orelle Val Thorens / Les 3 Vallées,FR,900 - 3.230,19,"68,00",€
+ochsengartenlift,Ochsengartenlift / Paternion,AT,519,0.4,"13,00",€
 lajoux,Lajoux,FR,1.160 - 1.220,3,"16,00",€
 sportgastein,Bad Gastein - Sportgastein - Skigastein / Ski amade,AT,1.600 - 2.650,25.9,"76,50",€
 pescegallo-valgerola,Pescegallo / Valgerola,IT,1.450 - 2.000,9.6,n/a,n/a
@@ -1997,6 +2032,7 @@ nella-bartosovice,Nella Bartošovice,CZ,575 - 650,0,n/a,n/a
 sportcentrum-javorovica,ŠPORTCENTRUM Javorovica,SK,780 - 1.060,2.6,n/a,n/a
 schneitweg-regenstauf,Schneitweg - Regenstauf,DE,440 - 528,0.6,n/a,n/a
 staldenried-gspon,Staldenried - Gspon,CH,804 - 2.900,5,n/a,n/a
+fluckenlift-allgaeu,Fluckenlift Maierhöfen,DE,n/a,0,n/a,n/a
 thyon-4-vallees,Thyon / 4 Vallées,CH,1.470 - 2.450,420,"79,00",€
 elbigenalp-knittel,Knittel - Elbigenalp / Lechtal,AT,1.050 - 1.240,3,n/a,n/a
 goldegg,Goldegg,AT,850 - 900,1,n/a,n/a
@@ -2092,6 +2128,7 @@ grasgehrenlifte-obermaiselstein,Berg-Naturerlebnis Riedbergerhorn / Grasgehren-B
 hauserkaibling,Hauser Kaibling / Schladming / Ski amade,AT,728 - 2.015,123,"76,50",€
 engstligenalp-adelboden,Engstligenalp - Adelboden,CH,1.964 - 2.373,17,dynamic,n/a
 horni-domky,Horní Domky / Rokytnice nad Jizerou,CZ,657 - 1.315,18.8,n/a,n/a
+maiswald,Maiswald-Schilift,AT,465,0,n/a,n/a
 stubaier-gletscher,Stubaier Gletscher / Stubaital,AT,1.695 - 3.210,68,"69,80",€
 brixen,SkiWelt / Brixen im Thale,AT,800 - 1.820,275,"73,00",€
 harusak-nove-mesto-na-morave,Harusák / Nové Město na Moravě,CZ,640 - 741,0.7,n/a,n/a
@@ -2140,11 +2177,13 @@ karsee-wangen,Karsee / Wangen,DE,615 - 665,0.8,n/a,n/a
 hohsaas-saas-grund,Saas Grund - Hohsaas,CH,1.559 - 3.142,32.3,"59,00",CHF
 la-bresse-hohneck,La Bresse Hohneck,FR,900 - 1.350,21,"39,50",€
 babin-do-bjelasnica,Babin Do / Bjelašnica,BA,1.270 - 2.067,12.5,n/a,n/a
+bruncu-spina,Bruncu Spina,IT,n/a,0,n/a,n/a
 dolleren-le-schlumpf,Dolleren - Le Schlumpf,FR,675 - 1.012,13,"14,00",€
 schoenfeld-thomatal,Schönfeld / Thomatal,AT,1.740 - 2.340,1.2,"32,00",€
 pod-dziedzicem,Pod Dziedzicem,PL,354 - 437,0,n/a,n/a
 schmittenhoehe-zellamsee,Schmitten / Zell am See,AT,760 - 2.000,77,"76,00",€
 skigebiet-gries-laengenfeld,Gries / Längenfeld,AT,1.600 - 1.700,1,"25,00",€
+wimmer,Wimmerlift / Hart-Purgstall,AT,n/a,0,n/a,n/a
 rimberg-schmallenberg,Rimberg / Schmallenberg,DE,675 - 713,0.7,"26,00",€
 schilifte-schuttannen,Schuttannen,AT,1.150 - 1.320,3,"15,00",€
 gitschtal,Weißbriach / Gitschtal,AT,820 - 1.150,4,"40,00",€

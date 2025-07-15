@@ -22,6 +22,12 @@ for datoteka in datoteke:
 
 # print(len(smucisca))
 
+# nepodvojena = list(dict.fromkeys(smucisca))
+# print(len(nepodvojena))
+
+# Ugotovim, da se dolzina seznama (ko odstranim podvojene elemente) spremeni iz 2210 v 2190, torej obstaja 20 podvojenih smucisc, ki si jih "delita" dve ali vec drzav.
+# Ker je to zanemarljiv delez, ohranim nakljucno drzavo, ki si "lasti" smucisce, torej v analizi zatajim dvojno lastnistvo.
+
 def shrani_html(smucisca):
     for smucisce in smucisca:
         url = f"https://www.bergfex.com/{smucisce}/"

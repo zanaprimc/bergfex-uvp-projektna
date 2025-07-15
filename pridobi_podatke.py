@@ -4,7 +4,7 @@ import os
 vzorec = re.compile(
     r'<title>.*?Skiing holiday (?P<ime>.+?)<\/title>.*?'
     r'"addressCountry":"(?P<drzava>\w+)".*?'
-    r'<span[^>]*>\s*(?P<nadmorska>\d+\.?\d*\s-\s\d+\.?\d*)\s*m\s*</span>.*?'
+    r'(<span[^>]*>\s*(?P<nadmorska>\d+\.?\d*(?:\s-\s\d+\.?\d*)?)\s*m\s*</span>.*?)?'
     r'<span[^>]*>\s*(?P<dolzina>\d+[\.]?\d*)\s*km\s*</span>.*?'
     r'(?P<valuta>€|CHF|BAM|CZK|PLN)?\s*(?P<cena>\d+[\,]\d+|n/a|dynamic)\b',
     re.IGNORECASE | re.DOTALL
@@ -25,12 +25,17 @@ def izlusci_podatke_o_smuciscih(start_poti):
                         valuta = "n/a"
                     else:
                         valuta = najdba["valuta"]
+                    
+                    if not najdba["nadmorska"]:
+                        nadmorska = "n/a"
+                    else:
+                        nadmorska = najdba["nadmorska"]
 
                     info = {
                         "interno_ime": dokument[:-5],
                         "smucisce": najdba["ime"],
                         "drzava": najdba["drzava"],
-                        "nadmorska_visina": najdba["nadmorska"],
+                        "nadmorska_visina": nadmorska,
                         "km_prog": najdba["dolzina"],
                         "karta": najdba["cena"],
                         "valuta": valuta
@@ -38,7 +43,7 @@ def izlusci_podatke_o_smuciscih(start_poti):
                     
                     smucisca_info.append(info)
 
-    # print(len(smucisca_info))
+    print(len(smucisca_info))
     return smucisca_info
 
 if __name__ == '__main__':
