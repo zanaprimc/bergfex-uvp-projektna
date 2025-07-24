@@ -20,12 +20,20 @@ for datoteka in datoteke:
         for najdba in re.finditer(vzorec, besedilo):
             smucisca.append(najdba["interno_ime"])
 
+# s = set()
+# duplikati = []
+# for smucisce in smucisca:
+#     if smucisce in s:
+#         duplikati.append(smucisce)
+#     else:
+#         s.add(smucisce)
+# print(duplikati)
+
 # print(len(smucisca))
+# print(len(s))
 
-# nepodvojena = list(dict.fromkeys(smucisca))
-# print(len(nepodvojena))
-
-# Ugotovim, da se dolzina seznama (ko odstranim podvojene elemente) spremeni iz 2210 v 2190, torej obstaja 20 podvojenih smucisc, ki si jih "delita" dve ali vec drzav.
+# Ugotovim, da se dolzina seznama (ko odstranim podvojene elemente) spremeni iz 2210 v 2190, torej obstaja 20 podvojenih smucisc, 
+# ki si jih "delita" dve ali vec drzav (npr. Avoriaz med Francijo in Švico), oz. so nekatera poljska smucisca navedena veckrat.
 # Ker je to zanemarljiv delez, ohranim nakljucno drzavo, ki si "lasti" smucisce, torej v analizi zatajim dvojno lastnistvo.
 
 def shrani_html(smucisca):
