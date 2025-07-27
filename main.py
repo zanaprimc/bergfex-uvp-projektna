@@ -1,4 +1,7 @@
 import csv
+import shrani_imena
+import shrani_prebivalce
+import izlusci_smucisca
 import pridobi_podatke
 import pridobi_prebivalce
 
