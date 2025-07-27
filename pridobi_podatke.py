@@ -31,13 +31,22 @@ def izlusci_podatke_o_smuciscih(start_poti):
                     else:
                         nadmorska = najdba["nadmorska"]
 
+                    if najdba["cena"] != "n/a":
+                        try:
+                            cena = najdba.group("cena")
+                            cena = float(cena.replace(",", "."))
+                        except ValueError:
+                            cena = "n/a"    
+                    else:
+                        cena = "n/a"  
+
                     info = {
                         "interno_ime": dokument[:-5],
                         "smucisce": najdba["ime"],
                         "drzava": najdba["drzava"],
                         "nadmorska_visina": nadmorska,
                         "km_prog": najdba["dolzina"],
-                        "karta": najdba["cena"],
+                        "karta": cena,
                         "valuta": valuta
                         }
                     
