@@ -1,23 +1,6 @@
 import requests
 import os
 
-drzave = ["andorra",
-          "deutschland", 
-          "slovenia", 
-          "kroatien", 
-          "oesterreich", 
-          "schweiz",
-          "italien",
-          "frankreich",
-          "nederland",
-          "belgie",
-          "polska",
-          "liechtenstein",
-          "czechia",
-          "slovakia",
-          "spanien",
-          "bosnien-herzegowina"]
-
 def shrani_html(drzave):
     for drzava in drzave:
         folder = f"bergfex_html/{drzava}" # mapo bergfex_html imam že ustvarjeno
