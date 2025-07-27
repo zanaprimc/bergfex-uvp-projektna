@@ -1,7 +1,7 @@
 # bergfex-uvp-projektna
 **Projektna naloga pri predmetu Uvod v Programiranje**
 
-V okviru te projektne naloge bom pridobila podatke o evropskih smučiščih ter analiziral njihove karakteristike v povezavi z državo, v kateri ležijo.
+V okviru te projektne naloge bom pridobila podatke o evropskih smučiščih ter analizirala njihove karakteristike v povezavi z državo, v kateri ležijo.
 
 ## Navodila za uporabo
 ### Python ter git
