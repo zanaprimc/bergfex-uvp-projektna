@@ -33,7 +33,7 @@ drzave = [{"Andorra": "AD"},
           {"Spain": "ES"},
           {"Bosnia and Herzegovina": "BA"}]
 
-imena_polj = ["drzava", "stevilo_prebivalcev"]
+imena_polj = ["drzava", "st_prebivalcev"]
 
 drzave_info = pridobi_prebivalce.shrani_stevilo(drzave)
 
