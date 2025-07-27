@@ -49,6 +49,3 @@ def shrani_html(smucisca):
         else:
             with open(os.path.join("smucisca_html", f"{smucisce}.html"), "w") as dat:
                 dat.write(odgovor.text)
-
-if __name__ == '__main__':
-    shrani_html(smucisca)

@@ -12,5 +12,3 @@ def shrani_stran(url):
     with open(datoteka, 'w', encoding='utf-8') as f:
         f.write(odgovor.text)
 
-if __name__ == '__main__':
-    shrani_stran(url)
